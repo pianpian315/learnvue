@@ -13,7 +13,7 @@ https://vue-loader-v14.vuejs.org/zh-cn/
 http://stylus-lang.com  
 http://stylus.github.io/nib/  
 
-### vuex  
+#### vuex  
 https://vuex.vuejs.org/zh/  
 
 ### webpack  
