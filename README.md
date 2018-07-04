@@ -13,6 +13,9 @@ https://vue-loader-v14.vuejs.org/zh-cn/
 http://stylus-lang.com  
 http://stylus.github.io/nib/  
 
+#### vue-router
+https://router.vuejs.org/zh/
+
 #### vuex  
 https://vuex.vuejs.org/zh/  
 
